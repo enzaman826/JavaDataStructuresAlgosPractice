@@ -21,6 +21,6 @@ public class R1_8 {
     }
 
     public static void main(String[] args) {
-        Arrays.asList("Nihal", "Adrian", "Kevin", "Simeon", "Alan","Andre").forEach(R1_8::printResult);
+        Arrays.asList("Nihal", "Adrian", "Kevin", "Simeon", "Matt", "Alan","Andre").forEach(R1_8::printResult);
     }
 }
